@@ -1,3 +1,3 @@
 # SWDashboard
-Solarwinds helpdesk dashboard shows tickets priority color coded.
+I suggest editing this completely to your own likings. This is just a good start to make your own dashboard.
 
